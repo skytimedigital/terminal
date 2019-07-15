@@ -1,0 +1,5 @@
+# [H:M XM][USER@HOST]{CURRENT DIRECTORY}
+export PS1=$'\e[1;33m[\D{%I:%M%p}]\e[1;31m[\u@\h]\e[m{\W}\n\u2192 '
+
+# Example PATH 
+PATH="/c/home/exe/x73/php:$PATH"
